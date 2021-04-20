@@ -8,7 +8,7 @@
 
 body {
   background-color: rgba(48, 34, 240, 0.104);
-  font-family: "Open Sans", sans-serif;
+  font-family: fantasy,sans-serif;
   color: #FFF;
   overflow-x: hidden; }
 
@@ -575,3 +575,8 @@ strong {
       font-size: 2.4em; }
     .der2 img {
       padding-bottom: 20px; } }
+      
+
+:not(a){color: #393e46;
+
+}      
