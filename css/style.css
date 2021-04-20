@@ -575,3 +575,8 @@ strong {
       font-size: 2.4em; }
     .der2 img {
       padding-bottom: 20px; } }
+      
+
+:not(a){color: #393e46;
+
+}      
